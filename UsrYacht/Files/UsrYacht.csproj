@@ -366,13 +366,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtEmailTemplate">
-			<HintPath>$(RelativePkgFolderPath)/CrtEmailTemplate/$(StandalonePackageAssemblyPath)/CrtEmailTemplate.dll</HintPath>
+		<Reference Include="CrtCalendar">
+			<HintPath>$(RelativePkgFolderPath)/CrtCalendar/$(StandalonePackageAssemblyPath)/CrtCalendar.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtCalendar">
-			<HintPath>$(RelativePkgFolderPath)/CrtCalendar/$(StandalonePackageAssemblyPath)/CrtCalendar.dll</HintPath>
+		<Reference Include="CrtEmailTemplate">
+			<HintPath>$(RelativePkgFolderPath)/CrtEmailTemplate/$(StandalonePackageAssemblyPath)/CrtEmailTemplate.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -466,6 +466,11 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="CrtCore">
+			<HintPath>$(RelativePkgFolderPath)/CrtCore/$(StandalonePackageAssemblyPath)/CrtCore.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 		<Reference Include="CrtProductivityCopilot">
 			<HintPath>$(RelativePkgFolderPath)/CrtProductivityCopilot/$(StandalonePackageAssemblyPath)/CrtProductivityCopilot.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -478,11 +483,6 @@
 		</Reference>
 		<Reference Include="CrtTouchPointBase">
 			<HintPath>$(RelativePkgFolderPath)/CrtTouchPointBase/$(StandalonePackageAssemblyPath)/CrtTouchPointBase.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="CrtCore">
-			<HintPath>$(RelativePkgFolderPath)/CrtCore/$(StandalonePackageAssemblyPath)/CrtCore.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
