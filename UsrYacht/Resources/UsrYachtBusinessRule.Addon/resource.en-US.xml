@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.627671c9-3871-e3a3-16a3-bce6b1197e0e.Caption" Value="Apply static filter: Manager" />
+			<Item Name="AddonConfig.Rules.7eed6117-bb12-0884-5e5c-099897e5bc26.Caption" Value="ChildRule-9157c493-f5d8-63d5-e225-5e939fbe4d6b-ClearValue" />
+			<Item Name="AddonConfig.Rules.9157c493-f5d8-63d5-e225-5e939fbe4d6b.Caption" Value="Apply filter: City" />
+			<Item Name="AddonConfig.Rules.a919d4a4-8b26-ba6f-307c-03f98d49495c.Caption" Value="ChildRule-9157c493-f5d8-63d5-e225-5e939fbe4d6b-PopulateValue" />
+			<Item Name="Caption" Value="Yacht (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
