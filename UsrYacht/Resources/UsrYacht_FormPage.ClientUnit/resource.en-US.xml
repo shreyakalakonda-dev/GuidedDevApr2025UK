@@ -8,9 +8,20 @@
 			<Item Name="LocalizableStrings.addRecord_clvdsk9_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_ruz9z1y_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_trn9u6o_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.CrewCountCannotBeLess.Value" Value="Crew Count Cannot Be Less than 1" />
 			<Item Name="LocalizableStrings.EmailInput_b14p1pb_caption.Value" Value="Email address" />
 			<Item Name="LocalizableStrings.EmailInput_b14p1pb_label.Value" Value="Manager email" />
+			<Item Name="LocalizableStrings.ExpansionPanel_31c7qtc_title.Value" Value="Yacht rental" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_he6z8yk_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_x1jr4dx_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_azv03im_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_6yldwt2_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_b8ss90u_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.MultiSelectCategory_label.Value" Value="Multi Select Category" />
+			<Item Name="LocalizableStrings.PassengerCannotBeLess.Value" Value="Passengers cannot be less than one" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price Cannot Be Less" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.YachtRental_caption.Value" Value="New" />
 		</Items>
 	</Group>
 </Resources>
