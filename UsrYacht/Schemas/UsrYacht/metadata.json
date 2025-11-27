@@ -160,7 +160,15 @@
   "E17": "UsrCountryId",
   "E18": "UsrCountryName"
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","0889aff5-4564-43e1-b42a-da3e1853ae4b","0e1805f6-69b9-1b7c-d331-c1d28af00b68","311858fa-0a87-42ee-640d-87aaae244f21","5ed1cffa-a4fc-32f5-c663-56d0b3e5ff68","72247e95-9c5b-348a-e08c-561835587789","69e32f5d-040e-9177-1fd3-5a1f3f66ac87","77cde10a-8422-5c8d-0e22-8e125effdf31","01fb9b11-91ff-e262-0cf8-1a4b8eba4567","bb0b5173-2a0c-7baf-dcd7-aaefa5687981","a01be179-b856-4c7c-c724-f37cc0ac3309","bbd82a35-65f7-24e5-4c45-d5cade1d30b2"]
++ MetaData.Schema.D2 {
+  "UId": "447c8595-2126-ccfe-c80c-7018f296a89f",
+  "A2": "UsrTicketPrice",
+  "A3": "cfe1557b-b15d-4efa-a7e5-ed27adf77276",
+  "A4": "cfe1557b-b15d-4efa-a7e5-ed27adf77276",
+  "A5": "2d9cd265-feb4-494d-9d9a-31dd0002cc95",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","0889aff5-4564-43e1-b42a-da3e1853ae4b","0e1805f6-69b9-1b7c-d331-c1d28af00b68","311858fa-0a87-42ee-640d-87aaae244f21","5ed1cffa-a4fc-32f5-c663-56d0b3e5ff68","72247e95-9c5b-348a-e08c-561835587789","69e32f5d-040e-9177-1fd3-5a1f3f66ac87","77cde10a-8422-5c8d-0e22-8e125effdf31","01fb9b11-91ff-e262-0cf8-1a4b8eba4567","bb0b5173-2a0c-7baf-dcd7-aaefa5687981","a01be179-b856-4c7c-c724-f37cc0ac3309","bbd82a35-65f7-24e5-4c45-d5cade1d30b2","447c8595-2126-ccfe-c80c-7018f296a89f"]
 = MetaData.Schema.D20.A2 "UsrYachtEvents"
 = MetaData.Schema.D36.A3 "cfe1557b-b15d-4efa-a7e5-ed27adf77276"
 = MetaData.Schema.D36.BS1 false

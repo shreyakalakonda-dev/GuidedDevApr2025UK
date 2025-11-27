@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "953eb589-6524-979f-a1b8-163f668c3f4d",
+    "Name": "DisableRootTrigger",
+    "DBEngineType": 0,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1764148455000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
